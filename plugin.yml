@@ -1,0 +1,6 @@
+main: srv.deathly.deathlypack.Main
+name: DeathlyPack
+version: 0.1
+author: DeathlyPandas
+depend: [CS-CoreLib, Slimefun]
+description: A plugin that brings many tools to the server.
